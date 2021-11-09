@@ -2,6 +2,6 @@ p {
  color: red;
 }
 
-p:hover {
+h1:hover {
   background-color: yellow;
 }
